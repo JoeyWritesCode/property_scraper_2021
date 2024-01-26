@@ -1,0 +1,558 @@
+"","Property","Price","Type","Bedrooms","Bathrooms","Station","URl","pp_pw"
+"1","1",2,"3",4,"5","6","7",0.125
+"2","Kingsdown Close, Bermondsey SE16",450,NA,4,"1","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/58276418/",28.125
+"3","Senrab Street, London E1",750,NA,6,"6","Limehouse","https://www.zoopla.co.uk/to-rent/details/53316661/",31.25
+"4","Sandalwood Close Solebay Street, Mile End, Stepney Green, London E1",695,NA,5,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/49823958/",34.75
+"5","Sandalwood Close Solebay Street, Mile End, Stepney Green, London E1",750,NA,5,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/49823727/",37.5
+"6","Sandalwood Close Solebay Street, Mile End, Stepney Green, London E1",750,NA,5,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/49823913/",37.5
+"7","Gale Street, Mile End E3",563,NA,3,"1","Devons Road","https://www.zoopla.co.uk/to-rent/details/59025402/",46.9166666666667
+"8","Pratt Street, London NW1",700,NA,3,"1","Camden Town","https://www.zoopla.co.uk/to-rent/details/57039374/",58.3333333333333
+"9","Oakley Square, London NW1",715,NA,3,"2","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/56606749/",59.5833333333333
+"10","New Place Square, London SE16",797,NA,3,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58941125/",66.4166666666667
+"11","Massingham Street, London E1",800,NA,3,"1","Stepney Green","https://www.zoopla.co.uk/to-rent/details/55792202/",66.6666666666667
+"12","Granville Square, London WC1X",1200,NA,4,"1","London Kings Cross","https://www.zoopla.co.uk/to-rent/details/57641339/",75
+"13","Hamlets Way, London E3",1733,"flat",4,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/57727054/",108.3125
+"14","Wager Street, Off Burdett Road, Mile End, London E3",2250,NA,5,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/58614622/",112.5
+"15","Clark Street, London E1",1408,"flat",3,"NA","Whitechapel","https://www.zoopla.co.uk/to-rent/details/58886685/",117.333333333333
+"16","Ackroyd Drive, London E3",2383,NA,5,"NA","Mile End","https://www.zoopla.co.uk/to-rent/details/52118227/",119.15
+"17","Shandy Street, Stepney Green/Mile End E1",1950,"flat",4,"1","Stepney Green","https://www.zoopla.co.uk/to-rent/details/55541945/",121.875
+"18","Neptune Street, London SE16",1950,"flat",4,"1","Canada Water","https://www.zoopla.co.uk/to-rent/details/59007674/",121.875
+"19","Micawber House, London SE16",1950,"flat",4,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58318014/",121.875
+"20","Tawney Way, London SE16",1975,"flat",4,"2","Surrey Quays","https://www.zoopla.co.uk/to-rent/details/58938921/",123.4375
+"21","Arbery Road, Bow E3",1998,"flat",4,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/58995307/",124.875
+"22","Millender Walk, London SE16",1500,"flat",3,"1","Surrey Quays","https://www.zoopla.co.uk/to-rent/details/52749199/",125
+"23","Shadwell, Brodlove Lane, London E1W",2000,"house",4,"1","Shadwell","https://www.zoopla.co.uk/to-rent/details/58823234/",125
+"24","Malting House, Bow E3",2002,"flat",4,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/58789741/",125.125
+"25","Orb Street, London SE17",1517,"flat",3,"1","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/57508083/",126.416666666667
+"26","Canada Water Plough Wy, London SE16",1525,"flat",3,"1","Surrey Quays","https://www.zoopla.co.uk/to-rent/details/57335266/",127.083333333333
+"27","Alphabet Square, Bow, London E3",3142,"house",6,"2","Langdon Park","https://www.zoopla.co.uk/to-rent/details/58861651/",130.916666666667
+"28","Alphabet Square, London E3",3142,"house",6,"2","Devons Road","https://www.zoopla.co.uk/to-rent/details/58782752/",130.916666666667
+"29","Amina Way, London SE16",2100,"house",4,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/51323893/",131.25
+"30","Jubilee Street, London E1",1585,"flat",3,"1","Shadwell","https://www.zoopla.co.uk/to-rent/details/58909534/",132.083333333333
+"31","Gilbert House, London E2",1600,NA,3,"1","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/58443195/",133.333333333333
+"32","Rhodeswell Road, London E14",2700,"flat",5,"1","Limehouse","https://www.zoopla.co.uk/to-rent/details/58903905/",135
+"33","Brune Street, Spitalfields, London E1",2700,"flat",5,"1","Aldgate East","https://www.zoopla.co.uk/to-rent/details/58848485/",135
+"34","Kingward House, Hanbury Street E1",2700,"flat",5,"1","Whitechapel","https://www.zoopla.co.uk/to-rent/details/58641393/",135
+"35","Rotherhithe New Road, London SE16",1625,NA,3,"1","Surrey Quays","https://www.zoopla.co.uk/to-rent/details/58888977/",135.416666666667
+"36","Camden Square, London NW1",2167,"flat",4,"2","Camden Road","https://www.zoopla.co.uk/to-rent/details/58273195/",135.4375
+"37","Knapp Road, London E3",2200,"flat",4,"1","Devons Road","https://www.zoopla.co.uk/to-rent/details/59034513/",137.5
+"38","Marquis Road, London NW1",2200,"flat",4,"NA","Caledonian Road","https://www.zoopla.co.uk/to-rent/details/58955691/",137.5
+"39","Solebay St, Off Mile End Road, London E1",2200,NA,4,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/58886568/",137.5
+"40","Harriott House, London E1",2200,"flat",4,"1","Stepney Green","https://www.zoopla.co.uk/to-rent/details/58787219/",137.5
+"41","Clark Street, London E1",1650,"flat",3,"1","Whitechapel","https://www.zoopla.co.uk/to-rent/details/58750790/",137.5
+"42","Forida Street, London E2",2200,NA,4,"1","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/58716972/",137.5
+"43","Kingsdown Close, Bermondsey SE16",2200,"flat",4,"1","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/58611468/",137.5
+"44","Earlsferry Way, London N1",2200,NA,4,"2","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/58267365/",137.5
+"45","Kedleston Walk, London E2",1650,NA,3,"1","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/57853630/",137.5
+"46","Gilbert House, Usk Street, London E2",1675,NA,3,"1","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/51782791/",139.583333333333
+"47","Bow Common Lane, Bow, London E3",2249,NA,4,"NA","Devons Road","https://www.zoopla.co.uk/to-rent/details/58564085/",140.5625
+"48","Sandalwood Close, Stepney Green/Mile End E1",1690,NA,3,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/57733096/",140.833333333333
+"49","Wager Street, London E3",1700,"flat",3,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/58994796/",141.666666666667
+"50","Hollybush Gardens, London E2",1700,"flat",3,"1","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/58818618/",141.666666666667
+"51","New North Road, Islington, London N1",1712,"flat",3,"1","Essex Road","https://www.zoopla.co.uk/to-rent/details/58089738/",142.666666666667
+"52","Windermere House, Mile End E3",2297,"flat",4,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/59002411/",143.5625
+"53","Eric Street, London E3",2297,NA,4,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/58923309/",143.5625
+"54","Oxley Close, London SE1",2297,"flat",4,"2","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/55305578/",143.5625
+"55","Knapp Road, London E3",2300,"flat",4,"1","Devons Road","https://www.zoopla.co.uk/to-rent/details/57452601/",143.75
+"56","Wickford Street, London E1",1750,"flat",3,"1","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/58782271/",145.833333333333
+"57","Farthing Field, London E1W",1750,NA,3,"1","Wapping","https://www.zoopla.co.uk/to-rent/details/58103716/",145.833333333333
+"58","Portelet Road, London E1",1755,"flat",3,"1","Stepney Green","https://www.zoopla.co.uk/to-rent/details/51303883/",146.25
+"59","Potier Street, London SE1",2362,"flat",4,"1","Borough","https://www.zoopla.co.uk/to-rent/details/58894516/",147.625
+"60","Bush Road, Surrey Quays SE8",2383,"house",4,"1","Surrey Quays","https://www.zoopla.co.uk/to-rent/details/58956892/",148.9375
+"61","Caledonian Road, London N1",2383,"flat",4,"1","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/57767426/",148.9375
+"62","Caledonian Road, London N7",2383,"flat",4,"1","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/56445099/",148.9375
+"63","Burbage Close, London SE1",2383,"flat",4,"1","Borough","https://www.zoopla.co.uk/to-rent/details/55041668/",148.9375
+"64","Lagado Mews, London SE16",2990,"house",5,"5","Rotherhithe","https://www.zoopla.co.uk/to-rent/details/58957156/",149.5
+"65","Bayham Street, Camden NW1",2395,NA,4,"1","Camden Town","https://www.zoopla.co.uk/to-rent/details/58196290/",149.6875
+"66","Chaucer Drive, London SE1",1798,"flat",3,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/56375355/",149.833333333333
+"67","Brock Place, London E3",1798,"flat",3,"1","Devons Road","https://www.zoopla.co.uk/to-rent/details/58569177/",149.833333333333
+"68","Tompion Street, Clerkenwell, London EC1V",1799,"flat",3,"1","Farringdon","https://www.zoopla.co.uk/to-rent/details/58349694/",149.916666666667
+"69","Sandalwood Close, London E1",1800,NA,3,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/59014934/",150
+"70","Shandy Street, Stepney Green/Mile End E1",1800,"flat",3,"1","Stepney Green","https://www.zoopla.co.uk/to-rent/details/55281285/",150
+"71","Bramcote Grove, Southwark, London SE16",1800,"flat",3,"1","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/48404242/",150
+"72","Princess Street, London SE1",1800,"flat",3,"1","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58696521/",150
+"73","Hampton Street, London SE17",2400,"house",4,"3","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58696173/",150
+"74","Brunswick Quay, London SE16",2400,"flat",4,"2","Surrey Quays","https://www.zoopla.co.uk/to-rent/details/58306159/",150
+"75","Clark Street, London E1",1800,"flat",3,"1","Shadwell","https://www.zoopla.co.uk/to-rent/details/58248453/",150
+"76","Plender Street, London NW1",1800,"property",3,"1","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/58180765/",150
+"77","Jamaica Road, London SE16",2400,NA,4,"NA","Bermondsey","https://www.zoopla.co.uk/to-rent/details/56984609/",150
+"78","Ann Moss Way, Canada Water, London SE16",2401,"house",4,"2","Canada Water","https://www.zoopla.co.uk/to-rent/details/58926051/",150.0625
+"79","Brunswick Quay, Surrey Quays SE16",2405,"property",4,"2","Surrey Quays","https://www.zoopla.co.uk/to-rent/details/52835636/",150.3125
+"80","Vallance Road, Whitechapel, London E1",3033,"house",5,"NA","Whitechapel","https://www.zoopla.co.uk/to-rent/details/59011550/",151.65
+"81","Cleveland Way, London E1",1820,"flat",3,"1","Stepney Green","https://www.zoopla.co.uk/to-rent/details/59019453/",151.666666666667
+"82","Potier Street, London SE1",2427,"flat",4,"NA","Borough","https://www.zoopla.co.uk/to-rent/details/58491026/",151.6875
+"83","Camelot House, London NW1",1825,"flat",3,"1","Caledonian Road","https://www.zoopla.co.uk/to-rent/details/59017911/",152.083333333333
+"84","Commerical Road, London E1",2450,"flat",4,"1","Shadwell","https://www.zoopla.co.uk/to-rent/details/58906265/",153.125
+"85","Oxley Close, Southwark SE1",2450,"house",4,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58632514/",153.125
+"86","Prusome Street, London E1W",2450,NA,4,"1","Wapping","https://www.zoopla.co.uk/to-rent/details/48444833/",153.125
+"87","Torrington Place, London E1W",1842,"house",3,"1","Wapping","https://www.zoopla.co.uk/to-rent/details/58836417/",153.5
+"88","Diprose Court, London E3",1850,"flat",3,"2","Devons Road","https://www.zoopla.co.uk/to-rent/details/59019524/",154.166666666667
+"89","Sherwood Gardens, London SE16",1850,"property",3,"NA","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/40001132/",154.166666666667
+"90","Old Kent Road, London SE1",1850,"flat",3,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58820390/",154.166666666667
+"91","Bush Road, London, Greater London SE8",1850,"flat",3,"1","Surrey Quays","https://www.zoopla.co.uk/to-rent/details/58734204/",154.166666666667
+"92","London, Mile End E3",3100,"house",5,"2","Mile End","https://www.zoopla.co.uk/to-rent/details/16160446/",155
+"93","Clark Street Stepney Green, London E1",2492,"property",4,"1","Shadwell","https://www.zoopla.co.uk/to-rent/details/58829642/",155.75
+"94","Burbage Close, London SE1",2492,"flat",4,"1","Borough","https://www.zoopla.co.uk/to-rent/details/58792282/",155.75
+"95","Burbage Close, Borough SE1",2492,"flat",4,"1","Borough","https://www.zoopla.co.uk/to-rent/details/58618298/",155.75
+"96","Burbage Close, London SE1",2492,"flat",4,"1","Borough","https://www.zoopla.co.uk/to-rent/details/52977151/",155.75
+"97","Oxley Close, London SE1",2500,"flat",4,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/59034448/",156.25
+"98","Old Montague Street, Aldgate East/Whitechapel E1",2500,"house",4,"1","Whitechapel","https://www.zoopla.co.uk/to-rent/details/58879688/",156.25
+"99","Boyton Close, London E1",2500,NA,4,"2","Stepney Green","https://www.zoopla.co.uk/to-rent/details/58876760/",156.25
+"100","Bayham Street, Camden NW1",2500,NA,4,"2","Camden Town","https://www.zoopla.co.uk/to-rent/details/57014291/",156.25
+"101","West Arbour Street, London E1",2500,"house",4,"1","Limehouse","https://www.zoopla.co.uk/to-rent/details/56988562/",156.25
+"102","Tabard Street, Borough SE1",1885,"flat",3,"1","Borough","https://www.zoopla.co.uk/to-rent/details/58929667/",157.083333333333
+"103","Old Church Road, London E1",1895,NA,3,"1","Limehouse","https://www.zoopla.co.uk/to-rent/details/58655165/",157.916666666667
+"104","Southwark Park Road, Bermondsey SE16",3792,"house",6,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58582812/",158
+"105","Joseph Street, London E3",1900,"flat",3,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/58961051/",158.333333333333
+"106","White Horse Lane, London E1",1900,"house",3,"1","Stepney Green","https://www.zoopla.co.uk/to-rent/details/51349558/",158.333333333333
+"107","Swaton Road, London E3",1900,"house",3,"1","Devons Road","https://www.zoopla.co.uk/to-rent/details/49284318/",158.333333333333
+"108","Duckett Street, Stepney, London E1",1900,"house",3,"1","Stepney Green","https://www.zoopla.co.uk/to-rent/details/58041467/",158.333333333333
+"109","Wickford Street, Stepney, London E1",1907,"flat",3,"NA","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/58525301/",158.916666666667
+"110","Oxley Close, London SE1",2550,"house",4,"NA","Bermondsey","https://www.zoopla.co.uk/to-rent/details/51799848/",159.375
+"111","Oxley Close, Southwark SE1",2550,"property",4,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58561645/",159.375
+"112","Oxley Close, Southwark, London SE1",2555,NA,4,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58621019/",159.6875
+"113","Oxley Close, Southwark, London SE1",2555,NA,4,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58621014/",159.6875
+"114","Flores Court, 20 Dongola Road, Stepney Green, Whitechaple, Mile End, London E1",2557,"flat",4,"NA","Stepney Green","https://www.zoopla.co.uk/to-rent/details/59011593/",159.8125
+"115","Oxley Close, South Wark, London SE1",2600,"house",4,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/59014465/",162.5
+"116","Cambridge Heath Road, Whitechapel, London E1",2600,"flat",4,"NA","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/40834766/",162.5
+"117","Yaldham House, London SE1",2600,"house",4,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58987527/",162.5
+"118","Oxley Close, London SE1",2600,"flat",4,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58961169/",162.5
+"119","Oxley Close, Bermondsey, London SE1",2600,"house",4,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58949694/",162.5
+"120","New Place Square, London SE16",2600,"flat",4,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/56175163/",162.5
+"121","Hollybush House, Hollybush Gardens, London E2",1950,"flat",3,"1","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/58846973/",162.5
+"122","Clark Street, London E1",1950,"flat",3,"1","Whitechapel","https://www.zoopla.co.uk/to-rent/details/58744328/",162.5
+"123","Oxley Close, Southwark, London SE1",2600,"property",4,"NA","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58703203/",162.5
+"124","Oxley Close, London SE1",2600,"house",4,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58702965/",162.5
+"125","Liverpool Road, London N7",2600,"flat",4,"2","Holloway Road","https://www.zoopla.co.uk/to-rent/details/58660368/",162.5
+"126","Oxley Close, London SE1",2600,"house",4,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58642181/",162.5
+"127","Oxley Close, London SE1",2600,"house",4,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58595307/",162.5
+"128","White Horse Lane, London E1",1950,"house",3,"1","Stepney Green","https://www.zoopla.co.uk/to-rent/details/58543738/",162.5
+"129","Camelot House, London NW1",2600,"flat",4,"1","Caledonian Road","https://www.zoopla.co.uk/to-rent/details/58543101/",162.5
+"130","Clovelly Way, London E1",1950,NA,3,"1","Shadwell","https://www.zoopla.co.uk/to-rent/details/58541862/",162.5
+"131","Alphabet Square, Hawgood Street, Mile End, London E3",3900,"house",6,"2","Devons Road","https://www.zoopla.co.uk/to-rent/details/51984401/",162.5
+"132","Jupiter Way, London N7",2600,"house",4,"NA","Caledonian Road","https://www.zoopla.co.uk/to-rent/details/55510684/",162.5
+"133","Walvisch House, Bow Common Lane, Mile End, London E3",3900,"house",6,"2","Mile End","https://www.zoopla.co.uk/to-rent/details/54881533/",162.5
+"134","Redmans Road, London E1",3900,"house",6,"NA","Stepney Green","https://www.zoopla.co.uk/to-rent/details/17332274/",162.5
+"135","Caledonian Road, London N1",1950,"flat",3,"1","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/58017861/",162.5
+"136","Surr Street, London N7",2600,NA,4,"NA","Caledonian Road","https://www.zoopla.co.uk/to-rent/details/50947027/",162.5
+"137","Brodie House, Coopers Road, London SE1",1950,"flat",3,"1","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/55784801/",162.5
+"138","Kingward House, Greatorex Street, Whitechapel E1",1950,"flat",3,"1","Aldgate East","https://www.zoopla.co.uk/to-rent/details/55141287/",162.5
+"139","Abbeyfield Road, London SE16",3298,"house",5,"2","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/58669723/",164.9
+"140","Abbeyfield Road, Bermondsey SE16",3300,"property",5,"1","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/54784124/",165
+"141","Marcia Road, London SE1",2643,"house",4,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/59036889/",165.1875
+"142","Bovet Court, 164 Harford Street, Stepney Green, Mile End, London E1",2643,"flat",4,"NA","Stepney Green","https://www.zoopla.co.uk/to-rent/details/58947024/",165.1875
+"143","Harford Street, Stepney Green E1",1995,"flat",3,"2","Limehouse","https://www.zoopla.co.uk/to-rent/details/59019720/",166.25
+"144","Milton Close, London SE1",3995,"flat",6,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/56456807/",166.458333333333
+"145","Wager Street, Mile End E3",2000,NA,3,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/59034863/",166.666666666667
+"146","Globe Road, London E1",2000,"flat",3,"1","Stepney Green","https://www.zoopla.co.uk/to-rent/details/59033234/",166.666666666667
+"147","Southwark Park Road, Bermondsey SE16",2000,NA,3,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58894450/",166.666666666667
+"148","Smith Close, London SE16",2000,"house",3,"3","Rotherhithe","https://www.zoopla.co.uk/to-rent/details/58884777/",166.666666666667
+"149","Hanbury Street, London E1",2000,"flat",3,"1","Whitechapel","https://www.zoopla.co.uk/to-rent/details/58838231/",166.666666666667
+"150","Spelman Street, London E1",2000,"flat",3,"1","Aldgate East","https://www.zoopla.co.uk/to-rent/details/58836325/",166.666666666667
+"151","Raven Row, Whitechapel E1",4000,"house",6,"2","Whitechapel","https://www.zoopla.co.uk/to-rent/details/58796695/",166.666666666667
+"152","Bancroft Road, London E1",4000,"house",6,"2","Stepney Green","https://www.zoopla.co.uk/to-rent/details/45904427/",166.666666666667
+"153","Lamb Court, Narrow Street E14",2000,"flat",3,"2","Limehouse","https://www.zoopla.co.uk/to-rent/details/58696056/",166.666666666667
+"154","Tooley Street, London SE1",2000,"flat",3,"1","London Bridge","https://www.zoopla.co.uk/to-rent/details/58460450/",166.666666666667
+"155","Raven Row, London E1",4000,"house",6,"2","Whitechapel","https://www.zoopla.co.uk/to-rent/details/58052028/",166.666666666667
+"156","86 - 87 Grange Road, Tower Bridge SE1",2000,"flat",3,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/55478995/",166.666666666667
+"157","Rydston Close, London N7",2002,"flat",3,"1","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/51720301/",166.833333333333
+"158","Victoria Park Square, London E2",3350,NA,5,"2","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/58765861/",167.5
+"159","Senrab Street, London E1",3358,"house",5,"2","Limehouse","https://www.zoopla.co.uk/to-rent/details/58907924/",167.9
+"160","Jamaica Street, Whitechapel, London E1",3358,NA,5,"NA","Stepney Green","https://www.zoopla.co.uk/to-rent/details/55925429/",167.9
+"161","Lynton Road, London SE1",2687,"house",4,"NA","Bermondsey","https://www.zoopla.co.uk/to-rent/details/55272409/",167.9375
+"162","Chamberlain House, Cable Street, Whitechapel, Aldgate, Shadwell, Wapping, Tower Hill, London E1",2024,NA,3,"NA","Shadwell","https://www.zoopla.co.uk/to-rent/details/31528944/",168.666666666667
+"163","Stepney Green, London E1",2700,"house",4,"1","Limehouse","https://www.zoopla.co.uk/to-rent/details/59035960/",168.75
+"164","Marcia Road, London SE1",3380,"house",5,"NA","Bermondsey","https://www.zoopla.co.uk/to-rent/details/51882757/",169
+"165","Torbay Court Clarence Way, Camden NW1",2708,"flat",4,"1","Camden Road","https://www.zoopla.co.uk/to-rent/details/59004904/",169.25
+"166","Kennet Street, London E1W",2708,"house",4,"2","Wapping","https://www.zoopla.co.uk/to-rent/details/55249570/",169.25
+"167","Gunwhale Close, London SE16",2037,"house",3,"2","Rotherhithe","https://www.zoopla.co.uk/to-rent/details/58982236/",169.75
+"168","Avis Square, Stepney Green, Limehouse, Shadwell, London E1",2730,"flat",4,"NA","Limehouse","https://www.zoopla.co.uk/to-rent/details/59011594/",170.625
+"169","Salmon Lane, Ashton Street, Limehouse, Stepney Green, London E14",2730,"house",4,"NA","Limehouse","https://www.zoopla.co.uk/to-rent/details/58947026/",170.625
+"170","Avis Square, Stepney E1",2730,"house",4,"1","Limehouse","https://www.zoopla.co.uk/to-rent/details/51655771/",170.625
+"171","Cable Street, Shadwell E1",2050,NA,3,"2","Shadwell","https://www.zoopla.co.uk/to-rent/details/59027522/",170.833333333333
+"172","St. Stephens Road, London E3",2050,NA,3,"2","Mile End","https://www.zoopla.co.uk/to-rent/details/59010340/",170.833333333333
+"173","Chamberlain House, Cable Street, Whitechaple, Shadwell, London E1",2050,"flat",3,"NA","Shadwell","https://www.zoopla.co.uk/to-rent/details/57607385/",170.833333333333
+"174","Maissonette, London N1",2058,"flat",3,"1","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/58412136/",171.5
+"175","Rhyl Street, London NW5",3466,"flat",5,"NA","Kentish Town West","https://www.zoopla.co.uk/to-rent/details/51916493/",173.3
+"176","Mackenzie Road, London N7",2773,"house",4,"NA","Caledonian Road","https://www.zoopla.co.uk/to-rent/details/58559260/",173.3125
+"177","Westport Street, Stepney Green E1",2080,"flat",3,"2","Limehouse","https://www.zoopla.co.uk/to-rent/details/58887172/",173.333333333333
+"178","Redmans Road, London E1",2080,"flat",3,"2","Stepney Green","https://www.zoopla.co.uk/to-rent/details/58648735/",173.333333333333
+"179","Bath Terrace, London SE1",2080,"flat",3,"1","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/44435987/",173.333333333333
+"180","Elim Estate, Weston Street, London SE1",2080,"flat",3,"1","Borough","https://www.zoopla.co.uk/to-rent/details/44798829/",173.333333333333
+"181","Rhyl Street, Kentish Town NW5",3467,"flat",5,"2","Kentish Town West","https://www.zoopla.co.uk/to-rent/details/55252890/",173.35
+"182","Tredegar Rd, Bow E3",4170,"house",6,"2","Bow Road","https://www.zoopla.co.uk/to-rent/details/59007672/",173.75
+"183","Frankland Close, Bermondsey, London SE16",2795,"house",4,"2","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/58775379/",174.6875
+"184","Avis Square, Stepney Green, Limehouse, Shadwell, London E1",2795,"house",4,"NA","Limehouse","https://www.zoopla.co.uk/to-rent/details/58760309/",174.6875
+"185","Lynton Road, Bermondsey, London SE1",2799,"flat",4,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/54992314/",174.9375
+"186","Fellows Court - Shoreditch, London E2",2100,"flat",3,"1","Hoxton","https://www.zoopla.co.uk/to-rent/details/59014425/",175
+"187","Spelman Street, Spitalfields, London E1",2100,"flat",3,"1","Aldgate East","https://www.zoopla.co.uk/to-rent/details/58988987/",175
+"188","11 Eric Street, London E3",2800,"house",4,"2","Mile End","https://www.zoopla.co.uk/to-rent/details/55128718/",175
+"189","Shearling Way, London N7",2800,"house",4,"1","Caledonian Road","https://www.zoopla.co.uk/to-rent/details/56372041/",175
+"190","Setchell Way, London Bridge SE1",2102,"flat",3,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58877779/",175.166666666667
+"191","Camden Walk, London N1",2817,"flat",4,"1","Angel","https://www.zoopla.co.uk/to-rent/details/58877196/",176.0625
+"192","York Way, Camden N7",2817,NA,4,"2","Caledonian Road","https://www.zoopla.co.uk/to-rent/details/51538287/",176.0625
+"193","Dickens Estate, London, Greater London SE1",2128,NA,3,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/45152091/",177.333333333333
+"194","Regan Way, London N1",2850,"flat",4,"2","Hoxton","https://www.zoopla.co.uk/to-rent/details/59033567/",178.125
+"195","Cannon Street Road, London E1",2860,"flat",4,"3","Shadwell","https://www.zoopla.co.uk/to-rent/details/58275795/",178.75
+"196","Shaftesbury Street, London N1",2145,NA,3,"2","Old Street","https://www.zoopla.co.uk/to-rent/details/51806415/",178.75
+"197","Madron Street, London SE17",2149,"property",3,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58139424/",179.083333333333
+"198","Buxton Street, London E1",2150,"house",3,"2","Whitechapel","https://www.zoopla.co.uk/to-rent/details/48828056/",179.166666666667
+"199","Cragie House, London SE1",2150,NA,3,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/59016942/",179.166666666667
+"200","Tadworth House, London SE1",2150,"flat",3,"1","Southwark","https://www.zoopla.co.uk/to-rent/details/58909805/",179.166666666667
+"201","Thomas More Street, London E1W",2158,"flat",3,"1","Tower Gateway","https://www.zoopla.co.uk/to-rent/details/58851604/",179.833333333333
+"202","Simms Road, London SE1",3600,"house",5,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/52426422/",180
+"203","Corporation Street, London N7",4333,"property",6,"2","Caledonian Road","https://www.zoopla.co.uk/to-rent/details/59029534/",180.541666666667
+"204","Corporation Street, London N7",4333,"house",6,"2","Caledonian Road","https://www.zoopla.co.uk/to-rent/details/58982417/",180.541666666667
+"205","Marcia Road, Elephant And Castle SE1",4333,"house",6,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/56025790/",180.541666666667
+"206","Mornington Grove, Bow, London E3",4334,"property",6,"3","Bow Road","https://www.zoopla.co.uk/to-rent/details/58966134/",180.583333333333
+"207","Lydford, London NW1",2167,"flat",3,"1","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/58799819/",180.583333333333
+"208","Rochester Road, London NW1",2167,NA,3,"1","Camden Road","https://www.zoopla.co.uk/to-rent/details/43033591/",180.583333333333
+"209","Camden Road, London NW1",2167,"flat",3,"2","Kentish Town","https://www.zoopla.co.uk/to-rent/details/55398666/",180.583333333333
+"210","Albany Street, London NW1",2167,"flat",3,"1","Great Portland Street","https://www.zoopla.co.uk/to-rent/details/58319523/",180.583333333333
+"211","New North Road, Old St, Angel, Islington, City, London N1",2900,"flat",4,"1","Essex Road","https://www.zoopla.co.uk/to-rent/details/58995063/",181.25
+"212","New North Road, Islington, London N1",2903,"house",4,"1","Essex Road","https://www.zoopla.co.uk/to-rent/details/58468244/",181.4375
+"213","Newman House, London SE1",2912,"flat",4,"1","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58420574/",182
+"214","Brunswick Quay, London SE16",2925,"house",4,"NA","Surrey Quays","https://www.zoopla.co.uk/to-rent/details/51445068/",182.8125
+"215","Fieldgate Street, Liverpool Street E1",2200,"flat",3,"2","Whitechapel","https://www.zoopla.co.uk/to-rent/details/52260579/",183.333333333333
+"216","Rotherhithe Street, London SE16",2200,"house",3,"1","Rotherhithe","https://www.zoopla.co.uk/to-rent/details/58805932/",183.333333333333
+"217","Johnson House, Bethnal Green E2",2200,NA,3,"2","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/58805045/",183.333333333333
+"218","Dunelm Street, Stepney E1",2200,"house",3,"1","Limehouse","https://www.zoopla.co.uk/to-rent/details/58647490/",183.333333333333
+"219","Gosset Street, London E2",2200,"property",3,"1","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/55757246/",183.333333333333
+"220","Morris House, London E2",2200,"house",3,"1","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/57547438/",183.333333333333
+"221","Fieldgate Street, Aldgate East E1",2200,"flat",3,"1","Whitechapel","https://www.zoopla.co.uk/to-rent/details/51904012/",183.333333333333
+"222","Steels Lane, London E1",2201,"house",3,"1","Shadwell","https://www.zoopla.co.uk/to-rent/details/59013759/",183.416666666667
+"223","Swanfield Street, Shoreditch, London E2",3683,"house",5,"2","Shoreditch High Street","https://www.zoopla.co.uk/to-rent/details/55660166/",184.15
+"224","Keats Close, London SE1",3683,"house",5,"5","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58958079/",184.15
+"225","Brick Lane, Shoreditch, London E2",3683,"house",5,"2","Shoreditch High Street","https://www.zoopla.co.uk/to-rent/details/55010621/",184.15
+"226","Centurion Close, London N7",3683,"house",5,"NA","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/50947025/",184.15
+"227","Chaucer Drive, London Bridge SE1",3683,"house",5,"3","Bermondsey","https://www.zoopla.co.uk/to-rent/details/55976787/",184.15
+"228","Jamaica Road, London SE16",2210,"flat",3,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58982528/",184.166666666667
+"229","Trafalgar Avenue, London SE15",2210,"flat",3,"2","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/58392359/",184.166666666667
+"230","Peckham, London SE15",2210,"flat",3,"2","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/57874301/",184.166666666667
+"231","Trafalgar Avenue, London SE15",2210,"flat",3,"2","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/57874231/",184.166666666667
+"232","Bradley Lynch Court, Morpeth Street, Bethnal Green E2",2947,"flat",4,"1","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/51995708/",184.1875
+"233","Clandon House, London SE1",2947,"flat",4,"1","Southwark","https://www.zoopla.co.uk/to-rent/details/58587424/",184.1875
+"234","Ann Moss Way, London SE16",2232,"house",3,"NA","Canada Water","https://www.zoopla.co.uk/to-rent/details/51911819/",186
+"235","Old Kent Road, London SE1",2232,"flat",3,"NA","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/50383132/",186
+"236","Bemerton Estate, London N1",2990,NA,4,"2","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/58982392/",186.875
+"237","Clarence Gardens, Regent's Park NW1",2995,"flat",4,"1","Great Portland Street","https://www.zoopla.co.uk/to-rent/details/58994049/",187.1875
+"238","61, Ashers Way, Wapping E1W",2999,"flat",4,"4","Shadwell","https://www.zoopla.co.uk/to-rent/details/55827580/",187.4375
+"239","Hull Close, Surrey Quays SE16",2250,"flat",3,"2","Rotherhithe","https://www.zoopla.co.uk/to-rent/details/52281682/",187.5
+"240","Alderney Road, Stepney Green, London E1",4500,"house",6,"2","Stepney Green","https://www.zoopla.co.uk/to-rent/details/58990611/",187.5
+"241","Conistone Way, London N7",3750,NA,5,"2","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/58982391/",187.5
+"242","O'leary Square, London E1",2250,"flat",3,"NA","Whitechapel","https://www.zoopla.co.uk/to-rent/details/58959548/",187.5
+"243","Patriot Square, London E2",3000,"flat",4,"2","Cambridge Heath","https://www.zoopla.co.uk/to-rent/details/58947094/",187.5
+"244","Bell Lane, London E1",4500,"flat",6,"2","Aldgate East","https://www.zoopla.co.uk/to-rent/details/54638272/",187.5
+"245","Denton, Malden Road, Kentish Town, London NW1",3000,NA,4,"1","Kentish Town West","https://www.zoopla.co.uk/to-rent/details/54946153/",187.5
+"246","Gunwhale Close, London SE16",3000,"house",4,"3","Rotherhithe","https://www.zoopla.co.uk/to-rent/details/58799996/",187.5
+"247","Raven Row, London E1",4500,"property",6,"2","Whitechapel","https://www.zoopla.co.uk/to-rent/details/58792827/",187.5
+"248","Old Kent Road, London SE1",2250,"flat",3,"3","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/58734897/",187.5
+"249","Rosebank Gardens, London E3",2250,"flat",3,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/58615301/",187.5
+"250","Hobsons Place, London E1",2250,"flat",3,"1","Whitechapel","https://www.zoopla.co.uk/to-rent/details/58451554/",187.5
+"251","Mount Terrace, Whitechapel E1",3750,"house",5,"3","Whitechapel","https://www.zoopla.co.uk/to-rent/details/58406712/",187.5
+"252","Fieldgate Street, Whitechapel, London E1",2250,"flat",3,"2","Whitechapel","https://www.zoopla.co.uk/to-rent/details/58371196/",187.5
+"253","Fieldgate Street, Whitechapel, London E1",2250,"flat",3,"1","Whitechapel","https://www.zoopla.co.uk/to-rent/details/58013934/",187.5
+"254","Eric Street, Mile End E3",2253,NA,3,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/58741308/",187.75
+"255","St. Georges Road, London SE1",2253,"flat",3,"NA","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/55188154/",187.75
+"256","Rousden Street, Camden NW1",2253,"flat",3,"1","Camden Road","https://www.zoopla.co.uk/to-rent/details/57615522/",187.75
+"257","Anchor Point, Rotherhithe, London SE16",3012,"house",4,"NA","Rotherhithe","https://www.zoopla.co.uk/to-rent/details/39114109/",188.25
+"258","Kennet Street, Wapping, London E1W",3012,"house",4,"2","Tower Gateway","https://www.zoopla.co.uk/to-rent/details/58957219/",188.25
+"259","Henshaw Street, London SE17",3012,"house",4,"NA","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/54943049/",188.25
+"260","Marcia Road, London SE1",3012,"house",4,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/55822302/",188.25
+"261","Keats Close, London SE1",3012,"house",4,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/44492019/",188.25
+"262","St Matthews Row, Bethnal Green, London E2",3033,"house",4,"1","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/58982749/",189.5625
+"263","Bath Terrace, Borough SE1",3033,"flat",4,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58975677/",189.5625
+"264","Clarence Gardens, Euston NW1",3033,"flat",4,"1","Great Portland Street","https://www.zoopla.co.uk/to-rent/details/58467237/",189.5625
+"265","Henshaw Street, London SE17",3033,"house",4,"NA","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/55375563/",189.5625
+"266","Cecil Rhodes House, Goldington Street, London NW1",3033,"flat",4,"1","London St Pancras (Intl)","https://www.zoopla.co.uk/to-rent/details/55283590/",189.5625
+"267","Shaftesbury Court, Shaftesbury Street, London N1",2275,NA,3,"1","Old Street","https://www.zoopla.co.uk/to-rent/details/48783280/",189.583333333333
+"268","Keats Close, Bermondsey SE1",3792,"house",5,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58970974/",189.6
+"269","Keats Close, London SE1",3792,"house",5,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/55505924/",189.6
+"270","Camden Road, Camden NW1",2297,"flat",3,"1","Kentish Town","https://www.zoopla.co.uk/to-rent/details/58872760/",191.416666666667
+"271","Stanhope Street, Euston NW1",2297,"flat",3,"1","Warren Street","https://www.zoopla.co.uk/to-rent/details/58730523/",191.416666666667
+"272","Fowey Close, London E1W",2297,"house",3,"1","Wapping","https://www.zoopla.co.uk/to-rent/details/58566662/",191.416666666667
+"273","Drake Close, London SE16",2297,"house",3,"2","Canada Water","https://www.zoopla.co.uk/to-rent/details/57867378/",191.416666666667
+"274","Castle Road, London NW1",2297,"flat",3,"2","Kentish Town West","https://www.zoopla.co.uk/to-rent/details/57603597/",191.416666666667
+"275","Wenlock Court, London N1",2300,"flat",3,"1","Old Street","https://www.zoopla.co.uk/to-rent/details/59027597/",191.666666666667
+"276","Calstock, London NW1",2300,"flat",3,"1","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/58986667/",191.666666666667
+"277","Hainton Close, Shadwell E1",2300,"house",3,"2","Shadwell","https://www.zoopla.co.uk/to-rent/details/58913688/",191.666666666667
+"278","Havering Street, London E1",2300,"flat",3,"1","Shadwell","https://www.zoopla.co.uk/to-rent/details/58894835/",191.666666666667
+"279","Brook Drive, Elephant &amp; Castle SE11",3850,"house",5,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58808103/",192.5
+"280","Henshaw Street, London SE17",2318,"house",3,"NA","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/55245429/",193.166666666667
+"281","Kinross House, London N1",3098,"flat",4,"1","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/58964428/",193.625
+"282","Welford Court, London NW1",3100,"flat",4,"1","Camden Road","https://www.zoopla.co.uk/to-rent/details/58469969/",193.75
+"283","Compton Close, London NW1",3100,"flat",4,"1","Great Portland Street","https://www.zoopla.co.uk/to-rent/details/58469961/",193.75
+"284","Marquis Road, London NW1",3120,NA,4,"2","Caledonian Road","https://www.zoopla.co.uk/to-rent/details/59017157/",195
+"285","Conisborough, Bayham Street, Camden NW1",3900,"house",5,"2","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/55865500/",195
+"286","Mayford, Oakley Square, Mornington Crescent NW1",3900,NA,5,"2","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/48644487/",195
+"287","Fairfield, London NW1",2340,"flat",3,"1","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/58775962/",195
+"288","Ford Square, London E1",3900,"house",5,"NA","Whitechapel","https://www.zoopla.co.uk/to-rent/details/17505564/",195
+"289","Burbage Close, London SE1",2340,"flat",3,"NA","Borough","https://www.zoopla.co.uk/to-rent/details/58677424/",195
+"290","Southwark, London, Greater London SE16",3900,"house",5,"4","Rotherhithe","https://www.zoopla.co.uk/to-rent/details/58570336/",195
+"291","Keats Close, London SE1",3900,"house",5,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/57819107/",195
+"292","Steels Lane, London E1",2350,"house",3,"2","Shadwell","https://www.zoopla.co.uk/to-rent/details/59014668/",195.833333333333
+"293","Lofting Road, Caledonian Road &amp; Barnsbury, London N1",2350,"house",3,"1","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/59003666/",195.833333333333
+"294","Farrier Street, Camden Town NW1",2350,"flat",3,"1","Camden Road","https://www.zoopla.co.uk/to-rent/details/58991220/",195.833333333333
+"295","Bath Terrace, London SE1",2350,"flat",3,"1","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58679374/",195.833333333333
+"296","Osbaburgh Street, London NW1",3142,"flat",4,"1","Warren Street","https://www.zoopla.co.uk/to-rent/details/58831869/",196.375
+"297","Burbage Close, London SE1",3142,"house",4,"NA","Borough","https://www.zoopla.co.uk/to-rent/details/55083733/",196.375
+"298","Henshaw Street, London SE17",3142,"house",4,"NA","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/57873900/",196.375
+"299","Greenland Quay, London SE16",2362,"house",3,"NA","Surrey Quays","https://www.zoopla.co.uk/to-rent/details/51507245/",196.833333333333
+"300","Leathermarket Court, London SE1",2362,"flat",3,"NA","London Bridge","https://www.zoopla.co.uk/to-rent/details/58656724/",196.833333333333
+"301","Kennet Street, Wapping, London E1W",3163,"house",4,"3","Shadwell","https://www.zoopla.co.uk/to-rent/details/58948816/",197.6875
+"302","Lofting Road, Angel N1",2383,"house",3,"1","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/44607621/",198.583333333333
+"303","Camden Street, Camden, London NW1",2383,"flat",3,"1","Camden Town","https://www.zoopla.co.uk/to-rent/details/58898751/",198.583333333333
+"304","Conistone Way, London N7",2383,"flat",3,"1","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/50238079/",198.583333333333
+"305","Tredegar Road, London E3",2384,"house",3,"1","Bow Road","https://www.zoopla.co.uk/to-rent/details/59019452/",198.666666666667
+"306","Swallowfield 25, London NW1",3185,"flat",4,"1","Great Portland Street","https://www.zoopla.co.uk/to-rent/details/58569184/",199.0625
+"307","Caledonian Road, London N1",2395,"flat",3,"3","London Kings Cross","https://www.zoopla.co.uk/to-rent/details/58987560/",199.583333333333
+"308","Roding Mews, London E1W",3200,"property",4,"2","Wapping","https://www.zoopla.co.uk/to-rent/details/58744177/",200
+"309","Spa Road, Bermondsey, London SE16",2400,"flat",3,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58683945/",200
+"310","Hayles Street, Kennington SE11",3200,"house",4,"1","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58675031/",200
+"311","Fieldgate Street, Liverpool Street E1",2400,"flat",3,"2","Whitechapel","https://www.zoopla.co.uk/to-rent/details/43763133/",200
+"312","Falmouth Road, London SE1",2400,"flat",3,"1","Borough","https://www.zoopla.co.uk/to-rent/details/55101984/",200
+"313","Chatham Street, London SE17",2401,"property",3,"1","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/48249849/",200.083333333333
+"314","Grand Walk, Solebay Street, London E1",3228,"house",4,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/55396488/",201.75
+"315","Grand Walk, Mile End E1",3228,"house",4,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/50865502/",201.75
+"316","Emberton Court, London EC1V",2427,"flat",3,"1","Angel","https://www.zoopla.co.uk/to-rent/details/58713651/",202.25
+"317","Ryland Road, London NW5",3237,"house",4,"NA","Kentish Town West","https://www.zoopla.co.uk/to-rent/details/17930216/",202.3125
+"318","Monthope Road, Shoreditch E1",3250,"house",4,"2","Aldgate East","https://www.zoopla.co.uk/to-rent/details/51733747/",203.125
+"319","Marcia Road, London SE1",3250,"house",4,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58990784/",203.125
+"320","Marcia Road, London SE1",3250,"house",4,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58877496/",203.125
+"321","Kennet Street, Wapping E1W",3250,"house",4,"2","Wapping","https://www.zoopla.co.uk/to-rent/details/40329812/",203.125
+"322","Abingdon Close, Camden Square NW1",3250,"flat",4,"1","Camden Road","https://www.zoopla.co.uk/to-rent/details/56764874/",203.125
+"323","Forge Place, London NW1",3250,"flat",4,"2","Kentish Town West","https://www.zoopla.co.uk/to-rent/details/58469966/",203.125
+"324","Grand Walk, London E1",3261,"house",4,"2","Mile End","https://www.zoopla.co.uk/to-rent/details/58363271/",203.8125
+"325","St. Anns House, Margery Street, Clerkenwell, London WC1X",2448,NA,3,"1","Angel","https://www.zoopla.co.uk/to-rent/details/40688717/",204
+"326","King Square, London EC1V",2448,"flat",3,"NA","Angel","https://www.zoopla.co.uk/to-rent/details/55389449/",204
+"327","Earlsferry Way, London N1",3272,"house",4,"2","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/58777561/",204.5
+"328","Leathermarket Court, London SE1",2460,"flat",3,"2","London Bridge","https://www.zoopla.co.uk/to-rent/details/59019596/",205
+"329","Conisborough, Bayham Street, Camden Town NW1",4100,"flat",5,"2","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/52614607/",205
+"330","London Bridge, London Bridge SE1",2460,"flat",3,"2","London Bridge","https://www.zoopla.co.uk/to-rent/details/58626924/",205
+"331","Centurion Close, London N7",3290,"flat",4,"2","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/58982418/",205.625
+"332","Dunoon House, London N1",3293,NA,4,"2","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/58713715/",205.8125
+"333","Percival Street, London EC1V",2470,"flat",3,"1","Farringdon","https://www.zoopla.co.uk/to-rent/details/59020206/",205.833333333333
+"334","Marcia Road, London SE1",4117,"house",5,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58570348/",205.85
+"335","North Gower Street, London NW1",3300,"flat",4,"1","Euston Square","https://www.zoopla.co.uk/to-rent/details/59015129/",206.25
+"336","Monthope Road, London E1",3300,"house",4,"2","Aldgate East","https://www.zoopla.co.uk/to-rent/details/51698993/",206.25
+"337","Rectory Square, London E1",3300,"house",4,"2","Stepney Green","https://www.zoopla.co.uk/to-rent/details/58915493/",206.25
+"338","Rectory Square, London E1",3300,"house",4,"2","Stepney Green","https://www.zoopla.co.uk/to-rent/details/52632519/",206.25
+"339","Royal College Street, Camden Town NW1",2475,NA,3,"2","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/58888851/",206.25
+"340","Camden, London NW1",3315,"flat",4,"1","Euston","https://www.zoopla.co.uk/to-rent/details/58541818/",207.1875
+"341","Murray Street, London NW1",4150,"house",5,"2","Camden Road","https://www.zoopla.co.uk/to-rent/details/58976550/",207.5
+"342","Treaty Street, King's Cross, London N1",2492,"flat",3,"1","London Kings Cross","https://www.zoopla.co.uk/to-rent/details/58910015/",207.666666666667
+"343","Commercial Road, Limehouse, London E14",2492,"flat",3,"NA","Limehouse","https://www.zoopla.co.uk/to-rent/details/58744041/",207.666666666667
+"344","Thomas More Street, Katherine Docks E1W",2495,"flat",3,"2","Tower Gateway","https://www.zoopla.co.uk/to-rent/details/58818144/",207.916666666667
+"345","Tower Bridge/Katherine Docks, London E1W",2495,"flat",3,"2","Tower Gateway","https://www.zoopla.co.uk/to-rent/details/58431675/",207.916666666667
+"346","Frankland Close, London SE16",2496,"property",3,"1","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/58480816/",208
+"347","Cavendish Street, London N1",2499,"property",3,"1","Old Street","https://www.zoopla.co.uk/to-rent/details/56015480/",208.25
+"348","Bingfield Street, London N1",2500,NA,3,"2","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/59030155/",208.333333333333
+"349","St. Pancras Way, London NW1",2500,"flat",3,"2","Camden Road","https://www.zoopla.co.uk/to-rent/details/59017155/",208.333333333333
+"350","Bonner Road, London E2",2500,"flat",3,"2","Cambridge Heath","https://www.zoopla.co.uk/to-rent/details/52068754/",208.333333333333
+"351","New North Road, London N1",2500,"flat",3,"1","Old Street","https://www.zoopla.co.uk/to-rent/details/53116640/",208.333333333333
+"352","Globe Road, Stepney, London E1",2500,"house",3,"1","Stepney Green","https://www.zoopla.co.uk/to-rent/details/58806445/",208.333333333333
+"353","Camden, London N7",2500,"flat",3,"1","Kentish Town","https://www.zoopla.co.uk/to-rent/details/58691117/",208.333333333333
+"354","Whitehorse Road, London E1",2500,"house",3,"2","Limehouse","https://www.zoopla.co.uk/to-rent/details/51587535/",208.333333333333
+"355","Dodson Street, London SE1",2500,"flat",3,"1","Lambeth North","https://www.zoopla.co.uk/to-rent/details/58605477/",208.333333333333
+"356","Royal College Street, London NW1",2500,"flat",3,"1","Camden Road","https://www.zoopla.co.uk/to-rent/details/58449008/",208.333333333333
+"357","Globe Road, Stepney, London E1",2500,"house",3,"1","Stepney Green","https://www.zoopla.co.uk/to-rent/details/58227956/",208.333333333333
+"358","Spring Walk, London E1",2500,"property",3,"2","Whitechapel","https://www.zoopla.co.uk/to-rent/details/52286507/",208.333333333333
+"359","Camden Mews, London NW1",2535,"flat",3,"1","Kentish Town","https://www.zoopla.co.uk/to-rent/details/58635684/",211.25
+"360","Grand Walk, Solebay Street, London E1",3397,"house",4,"NA","Mile End","https://www.zoopla.co.uk/to-rent/details/44510716/",212.3125
+"361","Zealand Road, London E3",3400,"house",4,"NA","Mile End","https://www.zoopla.co.uk/to-rent/details/58799954/",212.5
+"362","Casby House, Dickens Estate, London SE16",2550,NA,3,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/54589205/",212.5
+"363","Joseph Trotter Close, Clerkenwell EC1R",3402,NA,4,"1","Farringdon","https://www.zoopla.co.uk/to-rent/details/55131042/",212.625
+"364","Rhyl Street, Kentish Town NW5",2557,"flat",3,"1","Kentish Town West","https://www.zoopla.co.uk/to-rent/details/57520724/",213.083333333333
+"365","Bancroft Road, London E1",2570,"flat",3,"3","Stepney Green","https://www.zoopla.co.uk/to-rent/details/58247911/",214.166666666667
+"366","Stamford Street, London SE1",2578,"flat",3,"1","London Waterloo East","https://www.zoopla.co.uk/to-rent/details/51507782/",214.833333333333
+"367","Hermitage Court, Knighten Street, London E1W",2578,"flat",3,"2","Wapping","https://www.zoopla.co.uk/to-rent/details/58602775/",214.833333333333
+"368","King's Cross Road, London WC1X",3445,"flat",4,"2","London Kings Cross","https://www.zoopla.co.uk/to-rent/details/58782155/",215.3125
+"369","Harley Street, London W1G",3445,"flat",4,"2","Regent's Park","https://www.zoopla.co.uk/to-rent/details/58707168/",215.3125
+"370","Greville Street, Chancery Lane Ec1 EC1N",3450,"flat",4,"2","Chancery Lane","https://www.zoopla.co.uk/to-rent/details/58250454/",215.625
+"371","Lloyd Baker Street, Clarkenwell, Farringdon, Kings Cross, London WC1X",4333,NA,5,"2","Angel","https://www.zoopla.co.uk/to-rent/details/58621984/",216.65
+"372","Clifton House, London E2",2600,"flat",3,"2","Shoreditch High Street","https://www.zoopla.co.uk/to-rent/details/59027656/",216.666666666667
+"373","Ampton Street, London WC1X",2600,"flat",3,"1","London Kings Cross","https://www.zoopla.co.uk/to-rent/details/59019509/",216.666666666667
+"374","Zealand Road, London E3",2600,"house",3,"2","Mile End","https://www.zoopla.co.uk/to-rent/details/59011569/",216.666666666667
+"375","Royal College Street, London NW1",2600,"flat",3,"1","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/56500800/",216.666666666667
+"376","Bluegate Mews, 228 Cable Street, Shadwell, London E1",2600,"flat",3,"2","Shadwell","https://www.zoopla.co.uk/to-rent/details/58967854/",216.666666666667
+"377","Roupell Street, London SE1",2600,"house",3,"1","London Waterloo East","https://www.zoopla.co.uk/to-rent/details/52918758/",216.666666666667
+"378","White Horse Lane, Stepney, London E1",2600,"flat",3,"2","Stepney Green","https://www.zoopla.co.uk/to-rent/details/58910064/",216.666666666667
+"379","Albert Barnes House, London SE1",2600,"flat",3,"1","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58882770/",216.666666666667
+"380","Midway House, Manningford Close EC1V",2600,"house",3,"1","Angel","https://www.zoopla.co.uk/to-rent/details/48666428/",216.666666666667
+"381","Crofts Street, London E1",2600,"house",3,"2","Tower Gateway","https://www.zoopla.co.uk/to-rent/details/58783389/",216.666666666667
+"382","Camden Street, Camden NW1",2600,"flat",3,"1","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/58733357/",216.666666666667
+"383","London Bridge, London SE1",2600,"flat",3,"1","London Bridge","https://www.zoopla.co.uk/to-rent/details/58666409/",216.666666666667
+"384","Coborn Road, Bow, London E3",2600,"flat",3,"1","Mile End","https://www.zoopla.co.uk/to-rent/details/58662152/",216.666666666667
+"385","119 Newington Causeway, London SE1",2600,"flat",3,"1","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58658026/",216.666666666667
+"386","Great Percy Street, London WC1X",2600,"flat",3,"1","Angel","https://www.zoopla.co.uk/to-rent/details/58648743/",216.666666666667
+"387","South Block, County Hall, London SE1",2600,"flat",3,"2","Waterloo","https://www.zoopla.co.uk/to-rent/details/41603290/",216.666666666667
+"388","Walton House, London E2",2600,"flat",3,"2","Shoreditch High Street","https://www.zoopla.co.uk/to-rent/details/58485868/",216.666666666667
+"389","St. James's Road, London SE1",2600,"house",3,"2","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/54938343/",216.666666666667
+"390","Bayham Street, London NW1",2600,"flat",3,"NA","Camden Town","https://www.zoopla.co.uk/to-rent/details/58369992/",216.666666666667
+"391","Eversholt Street, London NW1",2600,"flat",3,"2","Euston","https://www.zoopla.co.uk/to-rent/details/55210146/",216.666666666667
+"392","Harrington Square, London NW1",3480,"flat",4,"2","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/59013056/",217.5
+"393","Margery Street, London WC1X",3500,"flat",4,"1","Angel","https://www.zoopla.co.uk/to-rent/details/59003067/",218.75
+"394","The Chenies, London NW1",3500,"flat",4,"1","London St Pancras (Intl)","https://www.zoopla.co.uk/to-rent/details/58753511/",218.75
+"395","Hartland Road, Chalk Farm NW1",3532,"flat",4,"2","Kentish Town West","https://www.zoopla.co.uk/to-rent/details/58970308/",220.75
+"396","Tyndale Mansions, Upper Street, London N1",2650,"flat",3,"1","Essex Road","https://www.zoopla.co.uk/to-rent/details/56231856/",220.833333333333
+"397","Whitechapel Road, London E1",2650,"flat",3,"1","Aldgate East","https://www.zoopla.co.uk/to-rent/details/58916318/",220.833333333333
+"398","Mitchell Street, London EC1V",2650,NA,3,"1","Old Street","https://www.zoopla.co.uk/to-rent/details/54856398/",220.833333333333
+"399","Coopers Lane, London NW1",3549,NA,4,"2","London St Pancras (Intl)","https://www.zoopla.co.uk/to-rent/details/55967746/",221.8125
+"400","Chatham Street, London SE17",2665,"flat",3,"1","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58703673/",222.083333333333
+"401","Abingdon Close, Camden Square, London NW1",3575,"flat",4,"NA","Camden Road","https://www.zoopla.co.uk/to-rent/details/58991032/",223.4375
+"402","Holcroft Court, Clipstone Street, London W1W",3575,"flat",4,"1","Great Portland Street","https://www.zoopla.co.uk/to-rent/details/58927529/",223.4375
+"403","Holcroft Court, Clipstone Street, London W1W",3575,"flat",4,"1","Great Portland Street","https://www.zoopla.co.uk/to-rent/details/58861830/",223.4375
+"404","Crowndale Road, London NW1",3575,"flat",4,"1","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/55014987/",223.4375
+"405","Whitechapel Road, London E1",2687,"flat",3,"1","Aldgate East","https://www.zoopla.co.uk/to-rent/details/58741313/",223.916666666667
+"406","Queen Annes Square, London SE1",2700,"flat",3,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/47960262/",225
+"407","Royal College Street, Camden, London NW1",4500,"property",5,"2","Camden Road","https://www.zoopla.co.uk/to-rent/details/58991092/",225
+"408","Vallance Road, London E2",2700,"house",3,"1","Bethnal Green","https://www.zoopla.co.uk/to-rent/details/58986598/",225
+"409","Thomas More Street, London E1W",2700,"flat",3,"2","Tower Gateway","https://www.zoopla.co.uk/to-rent/details/58977955/",225
+"410","Durdans House Farrier Street, Camden NW1",2700,"flat",3,"1","Camden Road","https://www.zoopla.co.uk/to-rent/details/58696593/",225
+"411","Westerham, Bayham Street, London NW1",2708,"flat",3,"1","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/55300103/",225.666666666667
+"412","Barnsbury Park, London N1",2708,"flat",3,"1","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/55538730/",225.666666666667
+"413","Porlock Street, London SE1",3640,"house",4,"4","Borough","https://www.zoopla.co.uk/to-rent/details/58884650/",227.5
+"414","North Gower Street, Euston, London NW1",2730,"flat",3,"1","Euston Square","https://www.zoopla.co.uk/to-rent/details/52423991/",227.5
+"415","Bridge Wharf, London N1",2730,"flat",3,"1","London Kings Cross","https://www.zoopla.co.uk/to-rent/details/58504221/",227.5
+"416","Steedman Street, London SE17",2745,"house",3,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58337053/",228.75
+"417","Havelock Street, London N1",3662,"house",4,"2","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/58469972/",228.875
+"418","Coopers Lane, London NW1",2750,"flat",3,"1","London St Pancras (Intl)","https://www.zoopla.co.uk/to-rent/details/58758729/",229.166666666667
+"419","Gray's Inn Road, King's Cross St Pancras WC1X",2750,"house",3,"2","King's Cross St. Pancras","https://www.zoopla.co.uk/to-rent/details/58017245/",229.166666666667
+"420","Hadley Street, London NW1",2752,"house",3,"1","Kentish Town West","https://www.zoopla.co.uk/to-rent/details/59013736/",229.333333333333
+"421","Montague Mews, London E3",2752,"flat",3,"2","Mile End","https://www.zoopla.co.uk/to-rent/details/58977965/",229.333333333333
+"422","Montague Mews, London E3",2752,"house",3,"2","Mile End","https://www.zoopla.co.uk/to-rent/details/58643738/",229.333333333333
+"423","Parfett Street, London E1",3683,"house",4,"2","Whitechapel","https://www.zoopla.co.uk/to-rent/details/59005045/",230.1875
+"424","Camden Mews, London NW1",3683,"house",4,"2","Camden Road","https://www.zoopla.co.uk/to-rent/details/56296056/",230.1875
+"425","Crosby Row, London SE1",3683,"house",4,"2","Borough","https://www.zoopla.co.uk/to-rent/details/55514666/",230.1875
+"426","Weymouth Mews, London W1G",3683,"house",4,"NA","Regent's Park","https://www.zoopla.co.uk/to-rent/details/52007651/",230.1875
+"427","Hadley Street, London NW1",2773,"house",3,"1","Kentish Town West","https://www.zoopla.co.uk/to-rent/details/58718695/",231.083333333333
+"428","Longley Street, Bermondsey, London SE1",2795,"house",3,"1","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58835435/",232.916666666667
+"429","Nicholson Street, London SE1",2800,"house",3,"2","Southwark","https://www.zoopla.co.uk/to-rent/details/51941595/",233.333333333333
+"430","Swan Street, London SE1",2817,"flat",3,"2","Borough","https://www.zoopla.co.uk/to-rent/details/58952817/",234.75
+"431","Angel Wharf Shepherdess Walk, Islington N1",2817,"flat",3,"2","Essex Road","https://www.zoopla.co.uk/to-rent/details/44419049/",234.75
+"432","Clarence Gardens, London NW1",2817,"house",3,"1","Great Portland Street","https://www.zoopla.co.uk/to-rent/details/55556495/",234.75
+"433","Mackenzie Road, Islington, London N7",2817,"property",3,"2","Caledonian Road","https://www.zoopla.co.uk/to-rent/details/58558320/",234.75
+"434","Tavistock Place, London WC1H",3781,"flat",4,"1","Russell Square","https://www.zoopla.co.uk/to-rent/details/58782419/",236.3125
+"435","Polygon Road, London NW1",3792,"flat",4,"2","Euston","https://www.zoopla.co.uk/to-rent/details/55210145/",237
+"436","Hartland Road, Chalk Farm NW1",3792,"flat",4,"2","Kentish Town West","https://www.zoopla.co.uk/to-rent/details/58731380/",237
+"437","Southwark Bridge Road, London SE1",2850,"house",3,"3","Borough","https://www.zoopla.co.uk/to-rent/details/59002209/",237.5
+"438","Woodland Crescent, London SE16",3800,"house",4,"4","Canada Water","https://www.zoopla.co.uk/to-rent/details/58956868/",237.5
+"439","Kings Terrace, London NW1",3800,"house",4,"2","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/58569305/",237.5
+"440","Harrington Square, London NW1",3850,"house",4,"1","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/57796501/",240.625
+"441","Bayham Street, Camden NW1",3878,"house",4,"1","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/58433978/",242.375
+"442","Mayford, Oakley Square, Mornington Crescent NW1",3900,NA,4,"2","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/48644486/",243.75
+"443","Hornbeam House, 22 Quebec Way, Canada Water SE16",3900,"flat",4,"NA","Canada Water","https://www.zoopla.co.uk/to-rent/details/43581869/",243.75
+"444","Roding Mews, London E1W",3900,"house",4,"4","Wapping","https://www.zoopla.co.uk/to-rent/details/58805347/",243.75
+"445","Beatty Street, Mornington Crescent NW1",2925,NA,3,"1","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/55919889/",243.75
+"446","Rosemary Street, London, Islington N1",3900,"house",4,"2","Essex Road","https://www.zoopla.co.uk/to-rent/details/58241412/",243.75
+"447","Gower Mews Mansions, London WC1E",2925,"flat",3,"1","Goodge Street","https://www.zoopla.co.uk/to-rent/details/57908394/",243.75
+"448","Weston Street, London SE1",2947,"flat",3,"2","London Bridge","https://www.zoopla.co.uk/to-rent/details/59002936/",245.583333333333
+"449","Garland Close, London SE1",2947,"flat",3,"1","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58393803/",245.583333333333
+"450","Scala Street, Fitzrovia, London W1T",2990,"flat",3,"1","Goodge Street","https://www.zoopla.co.uk/to-rent/details/58546573/",249.166666666667
+"451","Phoenix Court, London NW1",2999,"flat",3,"1","London St Pancras (Intl)","https://www.zoopla.co.uk/to-rent/details/58888836/",249.916666666667
+"452","Long Lane, London SE1",2999,"house",3,"1","Borough","https://www.zoopla.co.uk/to-rent/details/58499146/",249.916666666667
+"453","Argyle Street, King's Cross WC1H",3000,NA,3,"1","King's Cross St. Pancras","https://www.zoopla.co.uk/to-rent/details/59019074/",250
+"454","Jupiter Way, Islington, London N7",3000,"property",3,"2","Caledonian Road","https://www.zoopla.co.uk/to-rent/details/59009967/",250
+"455","Roding Mews, London E1W",4000,"house",4,"4","Wapping","https://www.zoopla.co.uk/to-rent/details/58966274/",250
+"456","The Tower, One The Elephant, Elephant &amp; Castle SE1",3000,"flat",3,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58595322/",250
+"457","Alwyne Road, London N1",3000,NA,3,"2","Essex Road","https://www.zoopla.co.uk/to-rent/details/50767666/",250
+"458","Tavistock Place, London WC1H",3012,"flat",3,"1","Russell Square","https://www.zoopla.co.uk/to-rent/details/55571751/",251
+"459","Hornbeam House, 22 Quebec Way, Canada Water SE16",3012,"flat",3,"NA","Canada Water","https://www.zoopla.co.uk/to-rent/details/42359445/",251
+"460","Hanson Street, Fitzrovia W1W",3012,"flat",3,"1","Goodge Street","https://www.zoopla.co.uk/to-rent/details/58657718/",251
+"461","Southampton Row, Bloomsbury, London WC1B",3012,"flat",3,"1","Russell Square","https://www.zoopla.co.uk/to-rent/details/58299857/",251
+"462","Medway Street, Westminster, London SW1P",3012,"flat",3,"2","St. James's Park","https://www.zoopla.co.uk/to-rent/details/58177778/",251
+"463","Hornbeam House, 22 Quebec Way, Canada Water SE16",3012,"flat",3,"NA","Canada Water","https://www.zoopla.co.uk/to-rent/details/44293921/",251
+"464","Dagmar Terrace, Islington N1",3033,"house",3,"2","Essex Road","https://www.zoopla.co.uk/to-rent/details/56177957/",252.75
+"465","7 Fowey Close, Fowey Close, Kennet Street, Wapping E1W",3033,"flat",3,"1","Wapping","https://www.zoopla.co.uk/to-rent/details/42104145/",252.75
+"466","Chiltern Heights, Caledonian Road N1",3050,"flat",3,"2","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/59020304/",254.166666666667
+"467","Avantgarde Place, Shoreditch E1",3050,"flat",3,"2","Shoreditch High Street","https://www.zoopla.co.uk/to-rent/details/58568624/",254.166666666667
+"468","Chiltern Heights, 351D Caledonian Road, London N1",3051,"flat",3,"2","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/58893627/",254.25
+"469","Old Street, London EC1V",4073,"flat",4,"3","Hoxton","https://www.zoopla.co.uk/to-rent/details/58741312/",254.5625
+"470","Fitzroy Square, London W1T",3077,"flat",3,"2","Warren Street","https://www.zoopla.co.uk/to-rent/details/58392727/",256.416666666667
+"471","St Georges Road, Elephant And Castle, London SE1",4117,"house",4,"2","Lambeth North","https://www.zoopla.co.uk/to-rent/details/58835103/",257.3125
+"472","Swinton Street, London WC1X",3098,"flat",3,"NA","London Kings Cross","https://www.zoopla.co.uk/to-rent/details/55142701/",258.166666666667
+"473","Swinton Street, London WC1X",3098,"flat",3,"NA","London Kings Cross","https://www.zoopla.co.uk/to-rent/details/51019473/",258.166666666667
+"474","Kay Street, Bethnal Green, London E2",3098,"house",3,"2","Cambridge Heath","https://www.zoopla.co.uk/to-rent/details/58945781/",258.166666666667
+"475","Elizabeth Mews, Kay Street, London E2",3098,"property",3,"NA","Cambridge Heath","https://www.zoopla.co.uk/to-rent/details/49007017/",258.166666666667
+"476","Elizabeth Mews, Kay Street, London E2",3098,"house",3,"NA","Cambridge Heath","https://www.zoopla.co.uk/to-rent/details/59029410/",258.166666666667
+"477","Elizabeth Mews, Kay Street, London E2",3098,"house",3,"2","Cambridge Heath","https://www.zoopla.co.uk/to-rent/details/48936685/",258.166666666667
+"478","Burton Street, Bloomsbury, London WC1H",3120,"flat",3,"1","Russell Square","https://www.zoopla.co.uk/to-rent/details/47859837/",260
+"479","Bedford Avenue, London WC1B",3120,"flat",3,"1","Tottenham Court Road","https://www.zoopla.co.uk/to-rent/details/55233056/",260
+"480","Abbey Street, London SE1",3142,"house",3,"2","Bermondsey","https://www.zoopla.co.uk/to-rent/details/48366421/",261.833333333333
+"481","St. Pauls Mews, London NW1",4225,"property",4,"2","Camden Road","https://www.zoopla.co.uk/to-rent/details/58853079/",264.0625
+"482","St Pauls Mews, Camden, London NW1",4225,"property",4,"2","Camden Road","https://www.zoopla.co.uk/to-rent/details/58728135/",264.0625
+"483","Ridgmount Gardens, London WC1E",4247,"flat",4,"2","Goodge Street","https://www.zoopla.co.uk/to-rent/details/54949246/",265.4375
+"484","Osnaburgh Street, London NW1",3200,"flat",3,"2","Warren Street","https://www.zoopla.co.uk/to-rent/details/59017739/",266.666666666667
+"485","Crowndale Road, St Pancras, London NW1",3200,"flat",3,"1","Mornington Crescent","https://www.zoopla.co.uk/to-rent/details/58755076/",266.666666666667
+"486","Commercial Street, London E1",3200,"flat",3,"2","Aldgate East","https://www.zoopla.co.uk/to-rent/details/58469590/",266.666666666667
+"487","Southwark Bridge Road, London SE1",3228,"flat",3,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58243003/",269
+"488","Southwark Bridge Road, London SE1",3228,"flat",3,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/57490809/",269
+"489","Bedford Court Mansions, Bedford Avenue, Bloomsbury, London WC1B",4312,"flat",4,"2","Tottenham Court Road","https://www.zoopla.co.uk/to-rent/details/35298837/",269.5
+"490","New Drum Street, Aldgate, London E1",3237,"flat",3,"2","Aldgate East","https://www.zoopla.co.uk/to-rent/details/55204193/",269.75
+"491","Bartholomew Road, Kentish Town Camden, London NW5",4333,"house",4,"3","Camden Road","https://www.zoopla.co.uk/to-rent/details/49496551/",270.8125
+"492","Acton Street, Kings Cross WC1X",3250,"flat",3,"2","London Kings Cross","https://www.zoopla.co.uk/to-rent/details/59022181/",270.833333333333
+"493","Cranfield House 97-107, Southampton Row, Russell Square WC1B",3250,"flat",3,"2","Russell Square","https://www.zoopla.co.uk/to-rent/details/52090994/",270.833333333333
+"494","Ainger Mews, Primrose Hill NW3",3250,"house",3,"1","Chalk Farm","https://www.zoopla.co.uk/to-rent/details/58965169/",270.833333333333
+"495","Gifford Street, Islington/Angel N1",3250,"flat",3,"2","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/58889892/",270.833333333333
+"496","London SE16",3250,NA,3,"NA","Bermondsey","https://www.zoopla.co.uk/to-rent/details/58881956/",270.833333333333
+"497","Pavillion House, Water Gardens Square, London SE16",3250,"flat",3,"3","Canada Water","https://www.zoopla.co.uk/to-rent/details/58741084/",270.833333333333
+"498","Back Church Lane, London E1",3250,"flat",3,"2","Aldgate East","https://www.zoopla.co.uk/to-rent/details/58647173/",270.833333333333
+"499","Odhams Walk, Covent Garden WC2H",3250,"flat",3,"2","Covent Garden","https://www.zoopla.co.uk/to-rent/details/55009990/",270.833333333333
+"500","Tompion Street, Clerkenwell, London EC1V",3250,"flat",3,"1","Farringdon","https://www.zoopla.co.uk/to-rent/details/58349692/",270.833333333333
+"501","Two Fifty One, Southwark Bridge Road, Southwark SE1",3250,"flat",3,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/57079720/",270.833333333333
+"502","Orde Hall Street, London WC1N",4350,NA,4,"3","Russell Square","https://www.zoopla.co.uk/to-rent/details/43949211/",271.875
+"503","Victory Place, Elephant And Castle, London SE17",3293,"flat",3,"NA","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58922873/",274.416666666667
+"504","Trafalgar Place, Elephant &amp; Castle, London SE17",3293,"flat",3,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/57827249/",274.416666666667
+"505","B Phoenix Road, Camden, London NW1",3300,"flat",3,"NA","Euston","https://www.zoopla.co.uk/to-rent/details/58933330/",275
+"506","Southampton Row, London WC1B",4450,"flat",4,"NA","Russell Square","https://www.zoopla.co.uk/to-rent/details/58827097/",278.125
+"507","Hatton Garden, London EC1N",3358,"flat",3,"2","Chancery Lane","https://www.zoopla.co.uk/to-rent/details/52411257/",279.833333333333
+"508","Hatton Garden, London EC1N",3358,"flat",3,"3","Farringdon","https://www.zoopla.co.uk/to-rent/details/51013806/",279.833333333333
+"509","Claremont Square, Islington N1",4498,NA,4,"2","Angel","https://www.zoopla.co.uk/to-rent/details/58907049/",281.125
+"510","Great Percy Street, London WC1X",3380,"flat",3,"2","Angel","https://www.zoopla.co.uk/to-rent/details/48322398/",281.666666666667
+"511","Hatton Garden, London EC1N",3380,"flat",3,"2","Farringdon","https://www.zoopla.co.uk/to-rent/details/57288317/",281.666666666667
+"512","New Drum St, London E1",3423,"flat",3,"2","Aldgate East","https://www.zoopla.co.uk/to-rent/details/58587609/",285.25
+"513","Cendal Crescent, London E1",3445,"flat",3,"2","Shadwell","https://www.zoopla.co.uk/to-rent/details/58835859/",287.083333333333
+"514","Heygate Street, Elephant Park, Elephant &amp; Castle SE17",3445,"flat",3,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58737569/",287.083333333333
+"515","Cendal Crescent, Whitechapel E1",3445,"flat",3,"NA","Shadwell","https://www.zoopla.co.uk/to-rent/details/58726751/",287.083333333333
+"516","The Silk District, Cavell St, Whitechapel, London E1",3445,"flat",3,"3","Whitechapel","https://www.zoopla.co.uk/to-rent/details/58720096/",287.083333333333
+"517","Wiverton Tower, 4 Drum Street, London E1",3445,"flat",3,"2","Aldgate East","https://www.zoopla.co.uk/to-rent/details/58660497/",287.083333333333
+"518","Elephant Central, Elephant And Castle SE17",3466,"flat",3,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/57408902/",288.833333333333
+"519","Camden Mews, London NW1",3467,"property",3,"3","Camden Road","https://www.zoopla.co.uk/to-rent/details/58824564/",288.916666666667
+"520","Wiverton Tower, Aldgate Place, Aldgate E1",3467,"flat",3,"2","Aldgate East","https://www.zoopla.co.uk/to-rent/details/58632145/",288.916666666667
+"521","Two Fifty One, Elephant &amp; Castle, London SE1",3467,"flat",3,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/57982765/",288.916666666667
+"522","Hankey Place, London SE1",3500,"house",3,"2","Borough","https://www.zoopla.co.uk/to-rent/details/59028615/",291.666666666667
+"523","Wansey Street, Elephant &amp; Castle, Elephant Park, London SE17",3575,"house",3,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58613747/",297.916666666667
+"524","Quilter Street, London E2",3600,"house",3,"2","Hoxton","https://www.zoopla.co.uk/to-rent/details/59036570/",300
+"525","Southwark Bridge Road, London SE1",3600,"flat",3,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58783681/",300
+"526","Raleigh Street, London N1",3600,"house",3,"2","Essex Road","https://www.zoopla.co.uk/to-rent/details/57117351/",300
+"527","Southwark Bridge Road, Elephant And Castle SE1",3666,"flat",3,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58781547/",305.5
+"528","Long Acre, Covent Garden WC2E",3683,"flat",3,"2","Covent Garden","https://www.zoopla.co.uk/to-rent/details/58850978/",306.916666666667
+"529","Southwark Bridge Road, London SE1",3683,"flat",3,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58549006/",306.916666666667
+"530","New Drum Street, Aldgate, London E1",3683,"flat",3,"NA","Aldgate East","https://www.zoopla.co.uk/to-rent/details/58364121/",306.916666666667
+"531","Wiverton Tower Aldgate Place, Aldgate, London E1",3683,"flat",3,"NA","Aldgate East","https://www.zoopla.co.uk/to-rent/details/57921571/",306.916666666667
+"532","Wiverton Tower, Aldgate Place, Aldgate E1",3683,"flat",3,"2","Aldgate East","https://www.zoopla.co.uk/to-rent/details/57536889/",306.916666666667
+"533","St George`S Circus, London SE1",3750,"flat",3,"2","Borough","https://www.zoopla.co.uk/to-rent/details/52913095/",312.5
+"534","West One House, Fitzrovia W1W",3770,"flat",3,"2","Oxford Circus","https://www.zoopla.co.uk/to-rent/details/58626445/",314.166666666667
+"535","Shoreditch Exchange, Shoreditch E2",3780,"flat",3,"2","Hoxton","https://www.zoopla.co.uk/to-rent/details/59030524/",315
+"536","Emery Way, London E1W",3800,"flat",3,"3","Tower Gateway","https://www.zoopla.co.uk/to-rent/details/54904271/",316.666666666667
+"537","The Old, London WC1R",3800,"house",3,"2","Holborn","https://www.zoopla.co.uk/to-rent/details/58625707/",316.666666666667
+"538","Tabard Street, London SE1",3878,"flat",3,"3","Borough","https://www.zoopla.co.uk/to-rent/details/55524182/",323.166666666667
+"539","Claremont Square, London N1",3878,NA,3,"2","Angel","https://www.zoopla.co.uk/to-rent/details/58903262/",323.166666666667
+"540","Matilda Street, Barnsbury, London N1",3878,"house",3,"1","Caledonian Road & Barnsbury","https://www.zoopla.co.uk/to-rent/details/58899509/",323.166666666667
+"541","73 Guilford Street, Bloomsbury, London WC1N",3878,"flat",3,"3","Russell Square","https://www.zoopla.co.uk/to-rent/details/57650362/",323.166666666667
+"542","One The Elephant, St Gabriel Walk, Elephant &amp; Castle SE1",3900,"flat",3,"2","Elephant & Castle","https://www.zoopla.co.uk/to-rent/details/58340951/",325
+"543","Ryland Road, Kentish Town, London NW5",3965,"house",3,"2","Kentish Town West","https://www.zoopla.co.uk/to-rent/details/58757673/",330.416666666667
+"544","Bloomsbury Way, London WC1A",3987,"flat",3,"2","Holborn","https://www.zoopla.co.uk/to-rent/details/54953187/",332.25
+"545","Trafalgar Avenue, London SE15",4000,"house",3,"2","South Bermondsey","https://www.zoopla.co.uk/to-rent/details/58952097/",333.333333333333
+"546","Charlotte Street, London W1T",4100,"flat",3,"2","Goodge Street","https://www.zoopla.co.uk/to-rent/details/59032236/",341.666666666667
+"547","Meranti House, Alie Street, London E1",4117,"flat",3,"3","Aldgate East","https://www.zoopla.co.uk/to-rent/details/58539557/",343.083333333333
+"548","York Way, London N1C",4117,"flat",3,"2","London St Pancras (Intl)","https://www.zoopla.co.uk/to-rent/details/40072520/",343.083333333333
+"549","Wild Street, Holborn, Covent Garden WC2B",4225,"flat",3,"3","Covent Garden","https://www.zoopla.co.uk/to-rent/details/58999745/",352.083333333333
+"550","Wild Street, Covent Garden WC2B",4225,"flat",3,"3","Covent Garden","https://www.zoopla.co.uk/to-rent/details/58890520/",352.083333333333
+"551","Wild Street, London WC2B",4225,"flat",3,"3","Covent Garden","https://www.zoopla.co.uk/to-rent/details/58791443/",352.083333333333
+"552","Broad Court, Covent Garden, London WC2B",4312,"flat",3,"2","Covent Garden","https://www.zoopla.co.uk/to-rent/details/58698228/",359.333333333333
+"553","Chicheley Street, County Hall, London SE1",4333,"flat",3,"2","Waterloo","https://www.zoopla.co.uk/to-rent/details/58880541/",361.083333333333
+"554","Westking Place, London WC1H",4333,"flat",3,"2","King's Cross St. Pancras","https://www.zoopla.co.uk/to-rent/details/58835468/",361.083333333333
+"555","102 Great Titchfield Street, London W1W",4333,"flat",3,"2","Goodge Street","https://www.zoopla.co.uk/to-rent/details/56807623/",361.083333333333
+"556","Kingsway, London WC2B",4500,"flat",3,"2","Holborn","https://www.zoopla.co.uk/to-rent/details/58490786/",375
+"557","Tradewind Heights, London SE16",4500,"flat",3,"2","Rotherhithe","https://www.zoopla.co.uk/to-rent/details/58201402/",375
